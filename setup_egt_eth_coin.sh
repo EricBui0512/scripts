@@ -4,7 +4,7 @@
 #version: 0.1
 #date: 2019-06-08
 
-sudo su-
+sudo su -
 apt-get update
 wget https://gethstore.blob.core.windows.net/builds/geth-linux-amd64-1.8.15-89451f7c.tar.gz
 tar zxf geth-linux-amd64-1.8.15-89451f7c.tar.gz
